@@ -1,0 +1,7 @@
+streamlit 
+langchain-community
+google-generativeai
+sentence-transformers
+faiss-cpu
+
+# I did this to avoid conflicts with other packages.
